@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Andie McPartland","email":"andie.mcpartland@triskele.health"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/SliderFilterGroup.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"Triskele Slider Filter with Grouping","displayName":"Triskele Slider Filter with Grouping","guid":"SliderFilterGroup","visualClassName":"Visual","version":"1.0.0","description":"Slider Filter that enables you to filter quantitative data grouped by a specific field / category","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/microsoft/PowerBI-visuals-circlecard"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
